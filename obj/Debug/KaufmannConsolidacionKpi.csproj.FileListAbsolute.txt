@@ -1,0 +1,10 @@
+c:\users\daniel\Source\Repos\KaufmannConsolidacionKpi\KaufmannConsolidacionKpi\bin\Debug\KaufmannConsolidacionKpi.exe.config
+c:\users\daniel\Source\Repos\KaufmannConsolidacionKpi\KaufmannConsolidacionKpi\bin\Debug\KaufmannConsolidacionKpi.exe
+c:\users\daniel\Source\Repos\KaufmannConsolidacionKpi\KaufmannConsolidacionKpi\bin\Debug\KaufmannConsolidacionKpi.pdb
+c:\users\daniel\Source\Repos\KaufmannConsolidacionKpi\KaufmannConsolidacionKpi\obj\Debug\KaufmannConsolidacionKpi.csprojResolveAssemblyReference.cache
+c:\users\daniel\Source\Repos\KaufmannConsolidacionKpi\KaufmannConsolidacionKpi\obj\Debug\KaufmannConsolidacionKpi.csproj.CoreCompileInputs.cache
+c:\users\daniel\Source\Repos\KaufmannConsolidacionKpi\KaufmannConsolidacionKpi\obj\Debug\KaufmannConsolidacionKpi.exe
+c:\users\daniel\Source\Repos\KaufmannConsolidacionKpi\KaufmannConsolidacionKpi\obj\Debug\KaufmannConsolidacionKpi.pdb
+c:\users\daniel\Source\Repos\KaufmannConsolidacionKpi\KaufmannConsolidacionKpi\bin\Debug\Newtonsoft.Json.dll
+c:\users\daniel\Source\Repos\KaufmannConsolidacionKpi\KaufmannConsolidacionKpi\bin\Debug\RestSharp.dll
+c:\users\daniel\Source\Repos\KaufmannConsolidacionKpi\KaufmannConsolidacionKpi\bin\Debug\Newtonsoft.Json.xml
